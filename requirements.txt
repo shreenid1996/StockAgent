@@ -1,0 +1,10 @@
+finnhub-python==2.4.20
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.127.0
+Jinja2==3.1.4
+PyYAML==6.0.1
+python-dotenv==1.0.1
+schedule==1.2.2
+hypothesis==6.100.1
+pytest==8.2.0

@@ -1,0 +1,34 @@
+watchlist:
+  - AAPL
+  - MSFT
+  - NVDA
+  - GOOGL
+  - AMZN
+  - META
+  - TSLA
+  - AMD
+  - AVGO
+  - ORCL
+
+paths:
+  db: app/data/stock_news.db
+  data_dir: app/data
+  log_dir: app/logs
+
+logging:
+  retention_days: 30
+
+finnhub:
+  request_delay_seconds: 0.5
+
+scoring:
+  relevance_threshold: 0.4
+  importance_threshold: 30
+  backend: rules   # options: rules | openai
+
+digest:
+  max_top_stories: 5
+  max_articles_per_ticker: 3
+
+scheduler:
+  run_time: "07:00"   # 24h local time
