@@ -1,0 +1,4 @@
+# file: D:\gitprojects\StockAgent\stock_news_agent\app\utils.py
+# hypothesis_version: 6.151.11
+
+[0.0, '-', '...', 'NFKD', '[\\s_]+', '[^\\w\\s-]', '\\s+', '\\w+', 'ascii', 'ignore', 'max_len must be >= 0']
