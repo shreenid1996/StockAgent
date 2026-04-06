@@ -1,0 +1,4 @@
+# file: D:\gitprojects\StockAgent\stock_news_agent\app\settings.py
+# hypothesis_version: 6.151.11
+
+['.env', 'FINNHUB_API_KEY', 'GMAIL_RECIPIENT', 'GMAIL_SENDER', 'GMAIL_TOKEN_PATH', 'backend', 'config.yaml', 'data_dir', 'db', 'digest', 'finnhub', 'importance_threshold', 'log_dir', 'logging', 'max_top_stories', 'paths', 'r', 'relevance_threshold', 'retention_days', 'run_time', 'scheduler', 'scoring', 'utf-8', 'watchlist']

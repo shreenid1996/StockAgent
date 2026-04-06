@@ -1,0 +1,4 @@
+# file: D:\gitprojects\StockAgent\stock_news_agent\app\logger.py
+# hypothesis_version: 6.151.11
+
+[1024, '%Y-%m-%dT%H:%M:%S', 'logs', 'stock_news_agent.log', 'utf-8']
