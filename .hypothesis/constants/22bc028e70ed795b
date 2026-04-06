@@ -1,0 +1,4 @@
+# file: D:\gitprojects\StockAgent\stock_news_agent\app\models.py
+# hypothesis_version: 6.151.11
+
+['Article', 'ArticleScore', 'DigestRun', 'EventCluster', 'RunLog', '[]', 'article_id', 'article_ids', 'composed', 'confidence', 'created_at', 'duration_ms', 'event_type', 'fetched_at', 'headline', 'html_content', 'id', 'importance_score', 'include_in_digest', 'is_relevant', 'keys', 'logged_at', 'message', 'published_at', 'raw_json', 'reason', 'recipient', 'relevance_score', 'run_date', 'run_id', 'scored_at', 'sent_at', 'source', 'status', 'step', 'subject', 'summary', 'text_content', 'ticker', 'url']
