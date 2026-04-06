@@ -1,0 +1,6 @@
+2026-04-05T21:53:38 | DEBUG    | app.db | Opened SQLite connection: C:\Users\shree\AppData\Local\Temp\tmp_at93605\test.db
+2026-04-05T21:53:38 | INFO     | app.db | Database schema initialised (all tables ensured).
+2026-04-05T21:54:01 | DEBUG    | app.db | Opened SQLite connection: C:\Users\shree\AppData\Local\Temp\tmp8ybmxf2o\test.db
+2026-04-05T21:54:01 | INFO     | app.db | Database schema initialised (all tables ensured).
+2026-04-05T21:54:15 | DEBUG    | app.db | Opened SQLite connection: C:\Users\shree\AppData\Local\Temp\tmp12fw3u7z\test.db
+2026-04-05T21:54:15 | INFO     | app.db | Database schema initialised (all tables ensured).
