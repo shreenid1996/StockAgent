@@ -1,0 +1,4 @@
+# file: D:\gitprojects\StockAgent\stock_news_agent\app\compose_digest.py
+# hypothesis_version: 6.151.11
+
+['%B %d, %Y', '%Y-%m-%d', '%Y-%m-%d %H:%M UTC', 'article_count', 'article_ids', 'clusters_by_ticker', 'composed', 'digest.html', 'digest.txt', 'event_type', 'generated_at', 'html', 'id', 'importance_score', 'other', 'relevant_articles', 'run_date', 'source', 'subject', 'summary', 'templates', 'ticker', 'top_stories', 'total_articles', 'total_clusters', 'url', 'watchlist', '📈 Stock News Digest']
