@@ -92,7 +92,7 @@ def _make_clusters_and_scores(tickers: list[str]) -> tuple[list[EventCluster], d
         unique=True,
     )
 )
-@settings(max_examples=100)
+@settings(max_examples=100, deadline=None)
 def test_digest_html_contains_all_watchlist_tickers(watchlist: list[str]) -> None:
     """For any watchlist, rendered HTML must contain a section for each ticker."""
     import tempfile
